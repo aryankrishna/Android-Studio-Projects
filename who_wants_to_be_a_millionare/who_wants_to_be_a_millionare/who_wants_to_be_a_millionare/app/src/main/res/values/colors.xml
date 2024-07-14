@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#00FF00</color>
+    <color name="black">#FF000000</color>
+    <color name="background">#e5e8d8</color>
+    <color name="textcol">#24261a</color>
+    <color name="wincol">#1d0f33</color>
+    <color name="lostcol">#021538</color>
+
+
+
+
+</resources>
